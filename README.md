@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/silentlawlite" target="blank"><img src="https://img.shields.io/twitter/follow/silentlawlite?logo=twitter&style=for-the-badge" alt="silentlawlite" /></a> </p>
 
-- 🙌 Always eager to learn new things
+- 🙌 **Always eager to learn new things**
   
 - 🌱 I’m currently exploring **MS Excel, SQL and Statistics**
 
