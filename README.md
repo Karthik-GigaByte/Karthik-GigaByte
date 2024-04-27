@@ -1,6 +1,6 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A passionate Data Analyst</h3>
+<h3 align="center">A Passionate Data Analyst</h3>
 <img align="right" alt="analytics" width="400"  src="https://iili.io/JU1Fk74.gif">
 
 
