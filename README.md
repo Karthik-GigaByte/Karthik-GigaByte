@@ -8,11 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/silentlawlite" target="blank"><img src="https://img.shields.io/twitter/follow/silentlawlite?logo=twitter&style=for-the-badge" alt="silentlawlite" /></a> </p>
 
-- 🌱 I’m currently learning **MS Excel, SQL and Statistics**
+- 🙌 Always eager to learn new things
+  
+- 🌱 I’m currently exploring **MS Excel, SQL and Statistics**
 
-- 📫 How to reach me **karthi20038242@gmail.com**
+- 💖 **Love to explore new AI tools and technologies**
 
-- 💖 My fact **Love to explore new AI tools and technologies**
+- 📫 To reach me: **karthi20038242@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
