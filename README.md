@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently exploring **Python, Django, Statistics**
 
-- 💖 **always eager to explore and master emerging
+- 💖 **Always eager to explore and master emerging
 technologies**
 
 - 📫 To reach me: **karthi20038242@gmail.com**
