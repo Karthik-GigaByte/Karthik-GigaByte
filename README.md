@@ -1,6 +1,6 @@
 ![MasterHead](https://iili.io/JU1Yhg4.gif)
 <h1 align="center">Hi 👋, I'm Karthik</h1>
-<h3 align="center">A Passionate Data Analyst</h3>
+<h3 align="center">An Aspiring Python Developer</h3>
 <img align="right" alt="analytics" width="400" src="https://iili.io/JU1Fk74.gif">
 
 
@@ -10,7 +10,7 @@
 
 - 🙌 **Always eager to learn new things**
   
-- 🌱 I’m currently exploring **MS Excel, SQL and Statistics**
+- 🌱 I’m currently exploring **Python, Django, Statistics**
 
 - 💖 **Love to explore new AI tools and technologies**
 
