@@ -12,7 +12,8 @@
   
 - 🌱 I’m currently exploring **Python, Django, Statistics**
 
-- 💖 **Love to explore new AI tools and technologies**
+- 💖 **always eager to explore and master emerging
+technologies**
 
 - 📫 To reach me: **karthi20038242@gmail.com**
 
