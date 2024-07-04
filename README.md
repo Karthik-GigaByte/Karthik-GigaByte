@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/silentlawlite" target="blank"><img src="https://img.shields.io/twitter/follow/silentlawlite?logo=twitter&style=for-the-badge" alt="silentlawlite" /></a> </p>
 
-- 🙌 **Always eager to learn new things**
+- 🙌 **Dedicated to pursuing a career in Artificial Intelligence**
   
 - 🌱 I’m currently exploring **Python, Django, Statistics**
 
