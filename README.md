@@ -1,4 +1,4 @@
-![MasterHead]<img align="center" width="700" src= "https://iili.io/JU1Yhg4.gif">
+<img align="center" width="700" src= "https://iili.io/JU1Yhg4.gif">
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">An Aspiring Python Developer</h3>
 <img align="right" alt="analytics" width="400" src="https://iili.io/JU1Fk74.gif">
